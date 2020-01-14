@@ -1,0 +1,16 @@
+body {
+  background: orange;
+}
+h2 {
+  color: red;
+  font-style: italic;
+  font-size: 30px;
+  font-family: fantasy;
+}
+svg .special {
+  fill: grey;
+}
+svg .snowman:hover {
+  transform: translateX(50px);
+  transition: 4s;
+}
